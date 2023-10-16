@@ -53,8 +53,7 @@ root.render(
         <Route path="addroom" element={<Addroom />} />
         <Route path="selhome" element={<Selhome />} />
         <Route path="seller/:detail" element={<Detail />} />
-        <Route path="update/:detail" element={<Upadateroom />} />   
-        <Route path="about" element={<About/>} />    
+        <Route path="update/:detail" element={<Upadateroom />} />      
         </Route>
         
 
